@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "april-version-code"
+version = "0.1.0"
+description = "Self-contained package for the April 2026 BrowseCompV2 experiment matrix"
+requires-python = ">=3.11"
+dependencies = [
+  "google-genai==1.62.0",
+  "numpy==1.26.4",
+  "openai==2.21.0",
+  "python-dotenv==1.2.1",
+  "requests==2.32.5",
+  "rlms==0.1.1",
+  "tiktoken==0.12.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,13 @@
+{
+  "source_dataset": "/Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/april_version_code/data/derived/support_only/support_only_q100_manydocs.jsonl",
+  "selection_policy": "first_50_rows_of_q100_sorted_by_support_doc_count_desc_then_question_id_asc",
+  "num_rows": 50,
+  "support_doc_count_stats": {
+    "min": 10,
+    "median": 10,
+    "mean": 10.42,
+    "max": 13
+  },
+  "output_dataset": "/Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/april_version_code/data/derived/support_only/support_only_q50_manydocs.jsonl",
+  "selected_qids_json": "/Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/april_version_code/data/derived/support_only/support_only_q50_manydocs_selected_qids.json"
+}
