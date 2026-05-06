@@ -1,0 +1,76 @@
+DOC_ID: 86190
+URL: https://en.wikipedia.org/wiki/Queen_Arwa_University
+IS_EVIDENCE: True
+IS_GOLD: True
+IS_NEGATIVE: False
+---
+title: Queen Arwa University - Wikipedia
+author: Authority control databases International ISNI VIAF National United States
+date: 2009-07-27
+---
+name: Queen Arwa University
+native_name: جامعة الملكة أروى
+image_name: Logo_arwa.png
+image_size: 200px
+motto: Steady steps towards the future
+established: 1996
+type: Private
+president: Waheeba Faree
+officer_in_charge: Ghassan Hashim
+students: 5000
+undergrad: 19, 000
+administrative_staff: 200
+academic_staff: 480
+city: Sana'a
+country: Yemen
+affiliation: Ministry of Higher Education and Scientific Research of Yemen
+website: Queen Arwa University
+
+Queen Arwa University is a Yemeni private university founded in 1996 in Yemen and named after Queen Arwa.Queen Arwa UniversityQueen Arwa University | Ranking & Review The university's different fields of study include humanities and social sciences, commercial sciences and administration, engineering, science, higher education, art, law, and microbiology.Academic Colleges
+
+About
+
+Queen Arwa University was established in January 1996. It gained recognition by the Ministry of Education and the Council of Higher Education Resolution No.(1). The first license was obtained with the establishment of the Yemeni International Languages Institute in 1989. In 1994, the institute established the International Yemeni Institute for Development. In 1995 the university laid the foundation for its first college, the College of Technical Sciences.
+
+Objectives
+
+The main objectives of the university are:
+.Queen Arwa University THE UNIVERSITY'S GOALS
+* Developing different, yet specialized courses in higher education in cooperation with other educational institutions.
+* Providing other social and scientific establishments with specialists in different areas of development, particularly in the fields of Women Studies, Environmental Studies, and Population Sciences.
+* Implementing educational programs to enable students to keep pace with advancements in technology, the arts, and sciences.
+* Forging cultural and scientific links and exchanges with universities, institutes, and scientific establishments in the Arab world, as well as abroad.
+
+Certificates
+
+Queen Arwa University offers the following certificates:
+
+* BA Degree after the completion of four successful academic years
+* Intermediate Diploma after the completion of two successful academic years
+* Higher Diploma following the BA Degree after the completion of one successful year
+* MA in Arts, Economy and Law after two intensive courses and research
+
+Academic Faculties
+
+* Faculty of Medical Sciences
+* Faculty of Engineering & Computer Sciences
+* Faculty of Economics and Administrative Sciences
+* Faculty of Arts and Human Sciences
+* Faculty of Law
+* Faculty of Postgraduate Studies
+
+See also
+
+* List of Islamic educational institutions
+* List of universities in Yemen
+
+External links
+
+* University website
+* University's YouTube page
+
+References
+
+Category:Universities in Yemen
+Category:Educational institutions established in 1996
+Category:1996 establishments in Yemen

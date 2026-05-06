@@ -1,0 +1,12 @@
+{
+  "source_jsonl": "/Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/exact_pipeline/data/browsecomp_plus_support_only_q50_main.jsonl",
+  "out_dir": "/Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/exact_pipeline/tinker_fs_qa/train_q50_fs",
+  "index_jsonl": "/Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/exact_pipeline/tinker_fs_qa/train_q50_fs/index.jsonl",
+  "num_examples": 1,
+  "layout": {
+    "agent_data": "agent_data/<qid>/*.txt",
+    "privileged_data": "privileged_data/<qid>/{query.txt,answer.txt,manifest.json}",
+    "tool_visible_files": "agent_data/<qid>/*.txt only",
+    "gold_answers_stored_outside_agent_dir": true
+  }
+}

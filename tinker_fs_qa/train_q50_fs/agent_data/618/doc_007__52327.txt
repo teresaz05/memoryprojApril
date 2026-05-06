@@ -1,0 +1,204 @@
+DOC_ID: 52327
+URL: https://en.wikipedia.org/wiki/2007_Brazilian_Grand_Prix
+---
+title: 2007 Brazilian Grand Prix - Wikipedia
+date: 2007-03-22
+---
+type: F1
+country: Brazil
+grand prix: Brazilian
+fulldate: 21 October 2007
+year: 2007
+race_no: 17
+season_no: 17
+previous_round: 2007 Chinese Grand Prix
+next_round: 2008 Australian Grand Prix
+official name: Formula 1 Grande Prêmio do Brasil 2007
+location: Autódromo José Carlos Pace, São Paulo, Brazil
+course: Permanent racing facility
+course_mi: 2.677
+course_km: 4.309
+distance_laps: 71
+distance_mi: 190.083
+distance_km: 305.909
+weather: 37 °C (Air), 63 °C (Track)
+pole_driver: Felipe Massa
+pole_team: Ferrari
+pole_time: 1:11.931
+pole_country: Brazil
+fast_driver: Kimi Räikkönen
+fast_team: Ferrari
+fast_time: 1:12.445
+fast_lap: 66
+fast_country: Finland
+first_driver: Kimi Räikkönen
+first_team: Ferrari
+first_country: Finland
+second_driver: Felipe Massa
+second_team: Ferrari
+second_country: Brazil
+third_driver: Fernando Alonso
+third_team: McLaren-Mercedes
+third_country: Spain
+lapchart: BRA
+
+The 2007 Brazilian Grand Prix (officially the Formula 1 Grande Prêmio do Brasil 2007) was a Formula One motor race held at the Autódromo José Carlos Pace in São Paulo, Brazil on 21 October 2007. The 71-lap race was the seventeenth and final race of the 2007 FIA Formula One World Championship. 
+
+The race was won by Ferrari driver Kimi Räikkönen, who consequently won the 2007 World Drivers' Championship. His teammate Felipe Massa finished the race second, whilst McLaren driver Fernando Alonso completed the podium by finishing in third position. Lewis Hamilton, who had held a four-point advantage over Fernando Alonso, and a seven-point lead over Räikkönen, prior to the race was slowed by a gearbox problem early in the race. He recovered to finish seventh, losing the championship to Räikkönen by a single point; teammate Alonso also ended up finishing just a single point behind. This was also the last race for Ralf Schumacher before he moved on to Deutsche Tourenwagen Masters the following year.
+
+This was the first time since the 2003 Brazilian Grand Prix that Rubens Barrichello failed to finish his home Grand Prix. It was also the first double retirement for both Honda since the 2006 French Grand Prix and Renault since the 2006 Hungarian Grand Prix, and Heikki Kovalainen's first retirement in his Formula One career.
+
+This event also marked the last race for cars with traction control. Traction control had previously been used in Formula 1 for the past seven seasons, and was officially made legal and reintroduced by the FIA at the 2001 Spanish Grand Prix. An effort to ban traction control finally led to the FIA banning the use of it for the 2008 season, with a standardized ECU being introduced, which removed these kinds of electronic driver aid systems, and prevented teams from using this kind of technology. 
+
+Report
+
+Background
+
+For the event, the largest-scale repairs in the last 35 years were carried out at the Autódromo José Carlos Pace, to fundamentally solve problems with the track surface. The existing asphalt was entirely replaced. At the same time, the pit lane entrance was enhanced to improve safety. To facilitate the work, the circuit was closed and no events were held in the five months immediately preceding the race. On 17 October, Companhia Paulista de Trens Metropolitanos (CPTM) began to operate the new station of the Line C, Autódromo, near the circuit. The Line C had been extended to improve the access between the center of São Paulo and southern region of the Greater São Paulo including the circuit. As a result, 7,100 spectators used this new station on Sunday, 21 October alone, and 18,000 or more spectators in total from Friday to Sunday.
+
+Alexander Wurz retired from Formula One at the end of the Chinese GP. He was replaced at Williams-Toyota by the Japanese driver Kazuki Nakajima, son of former F1 driver Satoru. As a result, three Japanese drivers were entered into a Grand Prix for the first time since the 1995 Japanese Grand Prix. Prior to the race, championship leader Lewis Hamilton (107 points) was four points ahead of second placed driver, Fernando Alonso (103 points). Kimi Räikkönen (100 points) was seven points behind the leader. This was the first three-way title fight in the final race of the F1 season since the 1986 Australian Grand Prix, which saw Alain Prost become champion, ahead of Nigel Mansell and Nelson Piquet.
+
+Practice
+
+In the Friday practice session, the Ferrari drivers topped the timesheet with Kimi Räikkönen leading the first practice in the wet session. In the second practice session, Lewis Hamilton led McLaren to a 1–2 finish, with the track improving over time.
+
+Stewards fined McLaren, Honda and Super Aguri €15,000 each for tyre rule infringement. Lewis Hamilton, Jenson Button and Takuma Sato used two sets of wet tyres, more than the one set permitted during the first practice. In addition, each driver had to surrender one set of wet tyres to avoid gaining any advantage.
+
+Qualifying
+
+The first session of qualifying saw the two Spykers of Adrian Sutil and Sakon Yamamoto plus the two Super Aguris of Takuma Sato and Anthony Davidson eliminated, along with Kazuki Nakajima, who was making his debut in the Williams, replacing the retiring Alexander Wurz. Heikki Kovalainen also went out in the Renault.
+
+In session two, the two Hondas of Rubens Barrichello and Jenson Button and the two Toro Rossos of Sebastian Vettel and Vitantonio Liuzzi went out along with Giancarlo Fisichella in his last race for Renault and Ralf Schumacher in the last race of his career in the Toyota.
+
+Nico Rosberg made the top ten for Williams, and qualified on row 5 alongside Red Bull's David Coulthard. They lined up just behind Jarno Trulli in the Toyota and Robert Kubica's BMW Sauber. Kubica's teammate Nick Heidfeld was sixth, and Mark Webber took 5th in the second Red Bull. McLaren took 2nd and 4th, with championship leader Lewis Hamilton ahead of Fernando Alonso. With his twelfth front row start, Hamilton set the record for most front row starts in a debut season. Their fellow championship contender Kimi Räikkönen qualified third, while his Ferrari teammate Felipe Massa took the ninth pole position of his career at his home Grand Prix.
+
+Race
+
+Only 21 cars were aligned on the grid, because of problems on the Spyker of Adrian Sutil, who started the race from the pit lane. At the start, the Ferraris of Felipe Massa and Kimi Räikkönen were faster, with the Finn passing Lewis Hamilton on the outside. At the third corner, Fernando Alonso passed Hamilton on the inside and then, on the Reta Oposta, defended himself from the attack of the Briton by taking the inside line. Hamilton locked up his brakes and went off the track while trying to regain the position. He rejoined the race in 8th place, just behind Jarno Trulli's Toyota. Also in the first lap, Liuzzi lost his front wing and was forced to enter the pits for repairs. In the first corner on the second lap, Fisichella went off the track, and was hit from behind by Sakon Yamamoto while re-entering on the track. Rubens Barrichello jumped the start and was given a drive-through penalty for this.
+
+Hamilton was trying to make up for the positions he lost: on lap 2 he passed Trulli and went into seventh, and four laps later he passed Nick Heidfeld to take sixth place. Just minutes later, he suffered a gearbox problem: on the Reta Oposta, he failed to find gears and slowed down, to be passed by most cars on the track. After going slowly for about 30 seconds, Hamilton managed to reset the computer of his car, and get it going again: he was in 18th place by then, and with the Ferraris pulling away he needed at the very least seventh place but more likely fifth place to clinch the World Championship.
+
+At the front no position was changed: by lap 15, the Ferraris were almost 12 seconds ahead of Alonso, third. By that lap, Hamilton climbed to eleventh, having passed Barrichello, Ralf Schumacher, Anthony Davidson, Takuma Sato and Kazuki Nakajima, and having taken advantage from the retirement of Mark Webber, who was running in fifth position.
+
+After 20 laps, the front runners began stopping for the first time: the first was Robert Kubica, who went for three stops; on the same lap Massa entered the pits. Räikkönen pitted on lap 22, carrying a bit more fuel than his teammate, to try to overtake him after the second stop. Alonso, Trulli, Vettel and Hamilton pitted on lap 22, with the Spaniard keeping hards, while Hamilton switched his strategy to a three-stopper (a rather risky strategy on the track which features the longest pit lane of the whole season): he carried less fuel than Alonso and switched to soft tyres. Heidfeld was the last to stop, pitting on lap 25.
+
+After the first round of pit stops, Massa was leading with 3.3 seconds on Räikkönen, followed by Alonso, 17 seconds behind. Hamilton was 13th, again behind Barrichello, 50 seconds behind Massa. On lap 32, Nakajima entered the pits for his first stop, but he ran wide while entering his stand, injuring two mechanics in the process. They suffered no serious injuries.
+
+On lap 34 Kubica, who was light on fuel, passed Alonso to take the third position, only to stop five laps later; he rejoined in seventh place. Hamilton made his second stop on lap 37, switching to hards again; on the same lap Heikki Kovalainen, who finished his first 16 consecutive races in Formula One, ended his race spinning on turn 3 and crashing into the barriers. This also meant that Kovalainen lost the opportunity to become the first driver to finish all of his races in his first season.
+
+On lap 43, the second round of pit stops began: the first to enter was David Coulthard from eight, followed by Trulli (then sixth) a lap later. Meanwhile, Massa made an error and ran wide at the Descida do Lago, with Räikkönen closing on him. The Brazilian pitted on lap 50, followed by Alonso on lap 52 and Räikkönen on lap 53. The Finn set record lap times in the process, which meant he rejoined the race into the lead, 2 seconds ahead of Massa. At that point, Räikkönen was in position to become world champion; third was Kubica (who still had to stop a third time), fourth Alonso, then came Heidfeld, Nico Rosberg, Trulli, Hamilton (more than a minute behind Räikkönen), Coulthard and Nakajima. Hamilton pitted on lap 57, rejoining in 9th. On lap 59 Kubica pitted dropping to sixth; in the same lap Hamilton passed Coulthard to take the eight position, setting the then fastest lap.
+
+In the final laps, Räikkönen and Massa led with a comfortable margin over Alonso, and Hamilton was lapped. On lap 61 Rosberg tried to pass Heidfeld on the first corner: both ran wide. Rosberg passed Heidfeld, with Kubica passing both to take fourth place. On lap 70, Rosberg tried a similar move, overtaking Kubica. Hamilton gained seventh place when Trulli made a pit stop, but this was not enough, as he needed to finish at least fifth place to gain the title.
+
+At the chequered flag, Räikkönen was first, winning the race and the World Championship by one point, taking his first victory in Brazil, having been a runner-up on three consecutive occasions. He performed the task of overturning Hamilton's 17 point advantage over him in two races. Massa was second in the other Ferrari, the fourth double (1–2 finish) of the year for the Italian team. Third, and last on the podium, was Alonso. The other drivers in the points were Rosberg, Kubica, Heidfeld, Hamilton, and Trulli.
+
+Post-race
+
+After the race, the result had been thrown into doubt following an inquiry into the cars of BMW Sauber and Williams. Race stewards investigated alleged irregularities with the cars' fuel. The stewards decided not to penalize the teams based on a lack of conclusive evidence, but the McLaren team appealed against this ruling. The appeal was finally rejected by the FIA on 16 November 2007. Had the FIA accepted the appeal, although it would be unprecedented, the title could have been handed to Lewis Hamilton. Hamilton stated that he would not have favoured winning the championship by this means.
+
+The race gained an average of nine million viewers in the United Kingdom on ITV1, which was the highest for Formula One in seven years. Viewer numbers peaked at 10.4 million in the last 15 minutes. In Spain, television broadcasters Telecinco and TV3 had a total average audience of 9.0 million viewers, with a market share of 77.8% in Asturias and 69.2% in Madrid.Telealonso: El Gran Premio de Brasil fue la segunda carrera más vista en la historia de la F-1 - José Javier Esparza, Diario de León, 23 October 2007
+
+Classification
+
+Qualifying
+
+**Table 1**
+
+| | | Driver | Constructor | Q1 | Q2 | Q3 | |
+|---|---|---|---|---|---|---|---|
+| 1 | 5 | Felipe Massa | Ferrari | 1:12.303 | 1:12.374 | 1:11.931 | 1 |
+| 2 | 2 | Lewis Hamilton | McLaren-Mercedes | 1:13.033 | 1:12.296 | 1:12.082 | 2 |
+| 3 | 6 | Kimi Räikkönen | Ferrari | 1:13.016 | 1:12.161 | 1:12.322 | 3 |
+| 4 | 1 | Fernando Alonso | McLaren-Mercedes | 1:12.895 | 1:12.637 | 1:12.356 | 4 |
+| 5 | 15 | Mark Webber | Red Bull-Renault | 1:13.081 | 1:12.683 | 1:12.928 | 5 |
+| 6 | 9 | Nick Heidfeld | BMW Sauber | 1:13.472 | 1:12.888 | 1:13.081 | 6 |
+| 7 | 10 | Robert Kubica | BMW Sauber | 1:13.085 | 1:12.641 | 1:13.129 | 7 |
+| 8 | 12 | Jarno Trulli | Toyota | 1:13.470 | 1:12.832 | 1:13.195 | 8 |
+| 9 | 14 | David Coulthard | Red Bull-Renault | 1:13.264 | 1:12.846 | 1:13.272 | 9 |
+| 10 | 16 | Nico Rosberg | Williams-Toyota | 1:13.707 | 1:12.752 | 1:13.477 | 10 |
+| 11 | 8 | Rubens Barrichello | Honda | 1:13.661 | 1:12.932 | | 11 |
+| 12 | 3 | Giancarlo Fisichella | Renault | 1:13.482 | 1:12.968 | | 12 |
+| 13 | 19 | Sebastian Vettel | Toro Rosso-Ferrari | 1:13.853 | 1:13.058 | | 13 |
+| 14 | 18 | Vitantonio Liuzzi | Toro Rosso-Ferrari | 1:13.607 | 1:13.251 | | 14 |
+| 15 | 11 | Ralf Schumacher | Toyota | 1:13.767 | 1:13.315 | | 15 |
+| 16 | 7 | Jenson Button | Honda | 1:14.054 | 1:13.469 | | 16 |
+| 17 | 4 | Heikki Kovalainen | Renault | 1:14.078 | | | 17 |
+| 18 | 22 | Takuma Sato | Super Aguri-Honda | 1:14.098 | | | 18 |
+| 19 | 17 | Kazuki Nakajima | Williams-Toyota | 1:14.417 | | | 19 |
+| 20 | 23 | Anthony Davidson | Super Aguri-Honda | 1:14.596 | | | 20 |
+| 21 | 20 | Adrian Sutil | Spyker-Ferrari | 1:15.217 | | | 21 |
+| 22 | 21 | Sakon Yamamoto | Spyker-Ferrari | 1:15.487 | | | 22 |
+| Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source: |
+
+Race
+
+**Table 2**
+
+| | | Driver | Constructor | Laps | Time/Retired | Grid | Points |
+|---|---|---|---|---|---|---|---|
+| 1 | 6 | Kimi Räikkönen | Ferrari | 71 | 1:28:15.270 | 3 | 10 |
+| 2 | 5 | Felipe Massa | Ferrari | 71 | +1.493 | 1 | 8 |
+| 3 | 1 | Fernando Alonso | McLaren-Mercedes | 71 | +57.019 | 4 | 6 |
+| 4 | 16 | Nico Rosberg | Williams-Toyota | 71 | +1:02.848 | 10 | 5 |
+| 5 | 10 | Robert Kubica | BMW Sauber | 71 | +1:10.957 | 7 | 4 |
+| 6 | 9 | Nick Heidfeld | BMW Sauber | 71 | +1:11.317 | 6 | 3 |
+| 7 | 2 | Lewis Hamilton | McLaren-Mercedes | 70 | +1 lap | 2 | 2 |
+| 8 | 12 | Jarno Trulli | Toyota | 70 | +1 lap | 8 | 1 |
+| 9 | 14 | David Coulthard | Red Bull-Renault | 70 | +1 lap | 9 | |
+| 10 | 17 | Kazuki Nakajima | Williams-Toyota | 70 | +1 lap | 19 | |
+| 11 | 11 | Ralf Schumacher | Toyota | 70 | +1 lap | 15 | |
+| 12 | 22 | Takuma Sato | Super Aguri-Honda | 69 | +2 laps | 18 | |
+| 13 | 18 | Vitantonio Liuzzi | Toro Rosso-Ferrari | 69 | +2 laps | 14 | |
+| 14 | 23 | Anthony Davidson | Super Aguri-Honda | 68 | +3 laps | 20 | |
+| Ret | 20 | Adrian Sutil | Spyker-Ferrari | 43 | Brakes | 21 | |
+| Ret | 8 | Rubens Barrichello | Honda | 40 | Engine | 11 | |
+| Ret | 4 | Heikki Kovalainen | Renault | 35 | Accident | 17 | |
+| Ret | 19 | Sebastian Vettel | Toro Rosso-Ferrari | 34 | Hydraulics | 13 | |
+| Ret | 7 | Jenson Button | Honda | 20 | Engine | 16 | |
+| Ret | 15 | Mark Webber | Red Bull-Renault | 14 | Gearbox | 5 | |
+| Ret | 21 | Sakon Yamamoto | Spyker-Ferrari | 2 | Collision | 22 | |
+| Ret | 3 | Giancarlo Fisichella | Renault | 2 | Collision | 12 | |
+| Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source: |
+
+Championship standings after the race
+
+;Drivers' Championship standings
+
+**Table 3**
+
+| +/– | | Driver | Points |
+|---|---|---|---|
+| 10px 2 | 1 | Kimi Räikkönen* | 110 |
+| 10px 1 | 2 | Lewis Hamilton | 109 |
+| 10px 1 | 3 | Fernando Alonso | 109 |
+| 10px | 4 | Felipe Massa | 94 |
+| 10px | 5 | Nick Heidfeld | 61 |
+| Source: | Source: | Source: | Source: |
+
+;Constructors' Championship standings
+
+**Table 4**
+
+| +/– | | Constructor | Points |
+|---|---|---|---|
+| 10px | 1 | Ferrari* | 204 |
+| 10px | 2 | BMW Sauber | 101 |
+| 10px | 3 | Renault | 51 |
+| 10px | 4 | Williams-Toyota | 33 |
+| 10px | 5 | Red Bull-Renault | 24 |
+| Source: | Source: | Source: | Source: |
+
+* McLaren was disqualified from the Constructors' Championship.
+* Only the top five positions are included for both sets of standings.
+* Bold text and an asterisk indicates the World Champions.
+
+References
+
+External links
+
+* 
+
+Brazilian Grand Prix
+2007
+Grand Prix
+Brazilian Grand Prix
