@@ -74,13 +74,3 @@ export STREAM_MODEL=qwen/qwen3.5-35b-a3b
 
 sbatch --export=ALL run_streaming_summary_passk_wandb.sh
 ```
-
-## Sync From Local To `sc`
-
-```bash
-cd /Users/teresaz/Downloads/cs191ResearchWinter/BrowseCompV2/exact_pipeline/tinker_synthetic_fs_current
-
-rsync -av --delete ./ \
-  teresaz@sc.stanford.edu:/sailhome/teresaz/BrowseCompV2/exact_pipeline/tinker_synthetic_fs_current/
-```
-
