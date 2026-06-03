@@ -1,0 +1,4 @@
+tinker==0.21.0
+tinker-cookbook==0.4.1
+chz
+wandb
